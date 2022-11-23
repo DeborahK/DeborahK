@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔎 Where to find me:
+
+- [YouTube](https://youtube.com/@deborah_kurata)
+- [Twitter](https://twitter.com/DeborahKurata)
+- [Mastodon](https://techhub.social/@deborahkurata)
+
+🔭 I’m currently working on **FREE** courses to help new developers:
+
+[Gentle Introduction to Programming for Beginners (14 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCrO9bwM1931IY8S3iWfhrr8)
+
+[Gentle Introduction to HTML for Beginners (21 lessons)](https://user-images.githubusercontent.com/7987365/203653514-7f45dcac-62f1-4461-b37f-c79dffb7c978.png)
+
+[Gentle Introduction to GitHub for Beginners (21 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq)
