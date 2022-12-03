@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 [Gentle Introduction to HTML for Beginners (21 lessons)](https://user-images.githubusercontent.com/7987365/203653514-7f45dcac-62f1-4461-b37f-c79dffb7c978.png)
 
 [Gentle Introduction to GitHub for Beginners (21 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq)
+
+[Gentle Introduction to CSS for Beginners (22 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCptjkM-mOfveYlgKQEx1AAf)
