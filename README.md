@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/DeborahKurata)
 - [Mastodon](https://techhub.social/@deborahkurata)
 
-🔭 I’m currently working on **FREE** courses to help new developers:
+🔭 I’ve published **FREE** courses on YouTube to help new developers:
 
 [Gentle Introduction to Programming for Beginners (14 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCrO9bwM1931IY8S3iWfhrr8)
 
