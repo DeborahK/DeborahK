@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 [Gentle Introduction to GitHub for Beginners (21 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq)
 
 [Gentle Introduction to CSS for Beginners (22 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCptjkM-mOfveYlgKQEx1AAf)
+
+[Gentle Introduction to Bootstrap for Beginners (14 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCr47pRGOswKcgzGyetNRdHZ)
