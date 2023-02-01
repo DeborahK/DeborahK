@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 [Gentle Introduction to CSS for Beginners (22 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCptjkM-mOfveYlgKQEx1AAf)
 
 [Gentle Introduction to Bootstrap for Beginners (14 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCr47pRGOswKcgzGyetNRdHZ)
+
+[Gentle Introduction to JavaScript for Beginners (17 lessons)](https://www.youtube.com/playlist?list=PLErOmyzRKOCpmitTOazq3_p74Y-yTQB6A)
