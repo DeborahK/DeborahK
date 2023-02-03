@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [YouTube](https://youtube.com/@deborah_kurata)
 - [Twitter](https://twitter.com/DeborahKurata)
 - [Mastodon](https://techhub.social/@deborahkurata)
+- [freecodecamp.org](https://www.freecodecamp.org/news/author/deborah-kurata/)
 
 🔭 I’ve published **FREE** courses on YouTube:
 
